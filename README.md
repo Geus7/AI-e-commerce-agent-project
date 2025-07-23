@@ -45,9 +45,9 @@ Create a `.env` file in the root directory:
 
 Save your dataset as `data/raw/total_sales.csv` with this format:
 
-```date,item_id,total_sales,total_units_ordered
-2025-06-01,0,309.99,1
-...```
+```date,item_id,total_sales,total_units_ordered```
+```2025-06-01,0,309.99,1 ```
+
 
 
 ### 5. Run the App
@@ -55,7 +55,11 @@ Save your dataset as `data/raw/total_sales.csv` with this format:
 ```python run.py```
 
 ### Output :
-![Sales Overview](screenshots/Screenshot%202025-07-22%20121629.png)
-![Bar Chart Output](screenshots/Screenshot%202025-07-22%20121643.png)
-![LLM Response](screenshots/Screenshot%202025-07-22%20121712.png)
+### 1. LLM Response
+![Sales Output](screenshots/Screenshot%202025-07-22%20121629.png)
 
+
+![Bar Chart](screenshots/Screenshot%202025-07-22%20121643.png)
+
+### 2. Trend chart
+![LLM Output](screenshots/Screenshot%202025-07-22%20121712.png)
