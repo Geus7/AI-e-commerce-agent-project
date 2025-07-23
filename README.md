@@ -55,7 +55,4 @@ Save your dataset as `data/raw/total_sales.csv` with this format:
 ```python run.py```
 
 ### Output :
-<img width="1910" height="930" alt="Screenshot 2025-07-22 121712" src="https://github.com/user-attachments/assets/a67468ae-f86b-4e81-b217-bcad8032feea" />
-<img width="884" height="417" alt="Screenshot 2025-07-22 121643" src="https://github.com/user-attachments/assets/daa18a70-2a8a-42b0-9e3d-5416a81e6542" />
-<img width="988" height="750" alt="Screenshot 2025-07-22 121629" src="https://github.com/user-attachments/assets/421c7922-b634-4c30-91d7-a8535340ea3a" />
-
+<img width="988" height="750" alt="Screenshot 2025-07-22 121629" src="https://github.com/user-attachments/assets/42e32e7c-9cca-45ee-9b0b-e11df8e023f0" />
