@@ -55,4 +55,7 @@ Save your dataset as `data/raw/total_sales.csv` with this format:
 ```python run.py```
 
 ### Output :
-<img width="988" height="750" alt="Screenshot 2025-07-22 121629" src="https://github.com/user-attachments/assets/42e32e7c-9cca-45ee-9b0b-e11df8e023f0" />
+![Sales Overview](screenshots/Screenshot%202025-07-22%20121629.png)
+![Bar Chart Output](screenshots/Screenshot%202025-07-22%20121643.png)
+![LLM Response](screenshots/Screenshot%202025-07-22%20121712.png)
+
